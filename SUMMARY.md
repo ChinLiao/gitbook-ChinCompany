@@ -25,3 +25,7 @@
 ## Next steps
 
 * [What next?](next-steps/what-next.md)
+
+## LANGS
+* [English](en)
+* [Vietnamese](vi)
