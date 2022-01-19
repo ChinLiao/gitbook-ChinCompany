@@ -28,6 +28,7 @@
 
 ## LANGS
 
-* [English](langs/english.md)
+* [English](langs/english/README.md)
+  * [English\_Subpage](langs/english/english\_subpage.md)
 * [Vietnamese](langs/vietnamese.md)
 * [Russian](langs/russian.md)
