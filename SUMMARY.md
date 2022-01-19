@@ -27,6 +27,7 @@
 * [What next?](next-steps/what-next.md)
 
 ## LANGS
-* [English](en/)
-* [Vietnamese](vi/)
-* [Russian](ru.md)
+
+* [English](langs/english.md)
+* [Vietnamese](langs/vietnamese.md)
+* [Russian](langs/russian.md)
