@@ -29,3 +29,4 @@
 ## LANGS
 * [English](en/)
 * [Vietnamese](vi/)
+* [Russian](ru.md)
